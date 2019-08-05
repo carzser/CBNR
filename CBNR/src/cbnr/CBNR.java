@@ -18,6 +18,7 @@ import java.util.Scanner;
  * @author Carlos Serrano A
  */
 public class CBNR {
+    //Comentario para Git
 
     static BigInteger factorial(BigInteger num) {
         BigInteger fact = BigInteger.ONE;
